@@ -1,0 +1,9 @@
+{
+  "home": "ホーム",
+  "about": "私について",
+  "contact": "お問い合わせ",
+  "learnMore": "もっと詳しく",
+  "contactMe": "お問い合わせはこちら",
+  "greeting": "私はワイ・ゾー・トゥンです",
+  "introduction": "私はテクノロジカル大学フマウビの3年生で、ITPEC FE認定を持つ情熱的なWeb・モバイル開発者です。2年間の経験があり、React、Laravel、PostgreSQL、Tailwind CSS を使用してフルスタックアプリを開発しています。また、n8n、Power BI、Figma、React Native などのツールも扱っています。きれいで機能的なユーザー体験を作ること、そして現実世界の課題をコードで解決することが好きです。"
+}
