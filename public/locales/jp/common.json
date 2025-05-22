@@ -4,6 +4,18 @@
   "contact": "お問い合わせ",
   "learnMore": "もっと詳しく",
   "contactMe": "お問い合わせはこちら",
-  "greeting": "私はワイ・ゾー・トゥンです",
-  "introduction": "私はテクノロジカル大学フマウビの3年生で、ITPEC FE認定を持つ情熱的なWeb・モバイル開発者です。2年間の経験があり、React、Laravel、PostgreSQL、Tailwind CSS を使用してフルスタックアプリを開発しています。また、n8n、Power BI、Figma、React Native などのツールも扱っています。きれいで機能的なユーザー体験を作ること、そして現実世界の課題をコードで解決することが好きです。"
+  "greeting": "ワイ・ゾー・トゥンです",
+  "role": "Full-stack developer",
+  "introduction": "私はテクノロジカル大学フマウビの3年生で、ITPEC FE 認定を持つ情熱的なWeb・モバイル開発者です。2年間の経験があり、React、Laravel、PostgreSQL、Tailwind CSS を使用してフルスタックアプリを開発しています。また、n8n、Power BI、Figma、React Native などのツールも扱っています。きれいで機能的なユーザー体験を作ること、そして現実世界の課題をコードで解決することが好きです。",
+  "hs_graduation": "高校を卒業しました",
+  "tu_hmawbi": "Hmawbi 工科大学に入学しました",
+  "tu_hmawbi_desc": "情報技術を専攻して学びました",
+  "self_study": "データ構造やアルゴリズムなどを独学で勉強しました",
+  "internship_ict": "ICT Star Group Myanmar でインターンを始めました",
+  "contract_ict": "ICT Star Group Myanmar で契約開発者として働き続けました",
+  "metro_japanese": "Metro IT と日本語センターに通いました",
+  "resign_ict": "ICT Star Group Myanmar からの辞任",
+  "it_passport": "ITPEC IP 試験に合格しました",
+  "jlpt_n3": "日本語能力試験N3に合格しました",
+  "fe_exam": "ITPEC FE 試験に合格しました"
 }

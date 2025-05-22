@@ -5,5 +5,17 @@
   "learnMore": "Learn More",
   "contactMe": "Contact Me",
   "greeting": "I'm Wai Zaw Tun",
-  "introduction": "I'm a passionate web and mobile developer in my third year at Technological University Hmawbi and an ITPEC FE certificate holder. With 2 years of experience, I've built full-stack apps using React, Laravel, PostgreSQL, and Tailwind CSS. I also work with tools like n8n, Power BI, Figma, and React Native. I enjoy creating clean, functional user experiences and solving real-world problems with code."
+  "role": "Full-stack developer",
+  "introduction": "I'm a passionate web and mobile developer in my third year at Technological University Hmawbi and an ITPEC FE certificate holder. With 2 years of experience, I've built full-stack apps using React, Laravel, PostgreSQL, and Tailwind CSS. I also work with tools like n8n, Power BI, Figma, and React Native. I enjoy creating clean, functional user experiences and solving real-world problems with code.",
+  "hs_graduation": "High school Graduation",
+  "tu_hmawbi": "Went to Technological University Hmawbi",
+  "tu_hmawbi_desc": "Specialize study in Information Technology",
+  "self_study": "Self studied Data Structure and Algorithms, etc.",
+  "internship_ict": "Landed internship at ICT Star Group Myanmar",
+  "contract_ict": "Continue working as contract-based developer at ICT Star Group Myanmar",
+  "metro_japanese": "Went to Metro IT and Japanese Language Center",
+  "resign_ict": "Resign from ICT Star Group Myanmar",
+  "it_passport": "Successfully passed Information Technology Passport Examination",
+  "jlpt_n3": "Successfully passed JLPT N3",
+  "fe_exam": "Successfully passed Fundamental Information Technology Engineer Examination"
 }

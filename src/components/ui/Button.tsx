@@ -8,6 +8,7 @@ type ButtonProps = {
   disabled?: boolean;
   onClick?: () => void;
   className?: string;
+  shadow?: boolean;
   type?: "button" | "submit" | "reset";
 };
 
@@ -18,18 +19,20 @@ export default function Button({
   disabled = false,
   onClick,
   className,
+  shadow = false,
   type = "button",
 }: ButtonProps) {
   const base = "btn";
   const sizeClass = size === "sm" ? "btn-sm" : size === "lg" ? "btn-lg" : "";
   const variantClass = `btn-${variant}`;
+  const shadowClass = shadow ? "btn-shadow" : "btn-shadow-none";
 
   return (
     <button
       type={type}
       onClick={onClick}
       disabled={disabled}
-      className={clsx(base, variantClass, sizeClass, className)}
+      className={clsx(base, variantClass, sizeClass, className, shadowClass)}
     >
       {children}
     </button>

@@ -11,7 +11,7 @@ const languageOptions: DropdownOption[] = [
 ];
 
 export default function LanguageSwitcher() {
-  const [lang, setLang] = useState("");
+  const [lang, setLang] = useState("jp");
 
   useEffect(() => {
     const save_lang = localStorage.getItem("locale");

@@ -26,10 +26,10 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="dim">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased scroll-smooth`}
       >
         <Navbar />
-        <main className="pt-4">{children}</main>
+        <main className="py-4 text-base-content">{children}</main>
       </body>
     </html>
   );

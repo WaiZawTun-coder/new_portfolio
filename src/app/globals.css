@@ -82,16 +82,27 @@ body {
 }
 
 .btn-primary {
+  --btn-shadow: "";
   --btn-color: var(--color-primary);
   --btn-fg: var(--color-primary-content);
 }
 
 .btn-secondary {
+  --btn-shadow: "";
   --btn-color: var(--color-secondary);
   --btn-fg: var(--color-secondary-content);
 }
 
 .btn-accent {
+  --btn-shadow: "";
   --btn-color: var(--color-accent);
   --btn-fg: var(--color-accent-content);
+}
+
+.btn-outline {
+  --btn-shadow: "";
+  --btn-bg: #0000;
+  --btn-fg: var(--btn-color);
+  --btn-border: var(--btn-color);
+  --btn-noise: none;
 }

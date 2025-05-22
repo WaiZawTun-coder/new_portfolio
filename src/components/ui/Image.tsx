@@ -46,7 +46,7 @@ export default function Image({
         {...props}
         alt={alt}
         onError={() => setHasError(true)}
-        onLoadingComplete={() => setIsLoading(false)}
+        onLoad={() => setIsLoading(false)}
         src={hasError ? fallbackSrc : props.src}
         className={cn(
           "object-cover w-full h-full transition-opacity duration-300",
